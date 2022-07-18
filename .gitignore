@@ -1,0 +1,17 @@
+src/old_reddit_api_code
+*.log
+*dag_id
+airflow/logs/scheduler
+airflow/logs
+airflow/dags/__pycache__
+strava_pipeline_dag.py 
+.idea
+/tests/__pycache__
+/tests/.pytest_cache
+pipeline.conf
+/airflow/*.env
+*.conf
+*.env
+/utils/__pycache__
+secret_info.txt
+*.txt
